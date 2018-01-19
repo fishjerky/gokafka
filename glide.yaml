@@ -1,0 +1,14 @@
+package: kafka
+import:
+- package: github.com/Shopify/sarama
+  version: v1.15.0
+- package: github.com/davecgh/go-spew
+  version: v1.1.0
+- package: github.com/eapache/go-resiliency
+  version: v1.0.0
+- package: github.com/eapache/go-xerial-snappy
+- package: github.com/eapache/queue
+  version: v1.1.0
+- package: github.com/pierrec/lz4
+  version: v1.1
+- package: github.com/rcrowley/go-metrics
