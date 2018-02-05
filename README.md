@@ -12,7 +12,7 @@ $ go build proxy.go
 
 ## Run proxy
 ``
-./proxy -port=8000 -kafka=""17x.17.35.199:9092"
+./proxy -port=8000 -kafka=""172.17.35.199:9092"
 ``
 
 ### Usage of ./proxy:
