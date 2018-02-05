@@ -1,5 +1,5 @@
 hash: dc889207879e226724a496161c5a73c6138c3960e73edc51145c8191f17321c2
-updated: 2018-01-18T10:27:06.921100507Z
+updated: 2018-02-05T06:53:09.709009619Z
 imports:
 - name: github.com/davecgh/go-spew
   version: 346938d642f2ec3594ed81d874461961cd0faa76
@@ -22,9 +22,7 @@ imports:
   subpackages:
   - xxHash32
 - name: github.com/rcrowley/go-metrics
-  version: e181e095bae94582363434144c61a9653aff6e50
+  version: 8732c616f52954686704c8645fe1a9d59e9df7c1
 - name: github.com/Shopify/sarama
   version: 3b1b38866a79f06deddf0487d5c27ba0697ccd65
-- name: github.com/stathat/go
-  version: 74669b9f388d9d788c97399a0824adbfee78400e
 testImports: []
